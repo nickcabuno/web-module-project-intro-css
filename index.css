@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap'); /*font-family: 'Chelsea Market', cursive;*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap'); /*font-family: 'Roboto Mono', monospace;*/
+
+
+.top{
+    text-align: center;
+    padding: 2% 2% 2% 2%;
+}
+
+#plan{
+    background-color: #FF764E;
+    font-family: 'Roboto Mono', monospace;
+    width: 15%;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 30%;
+    margin: 2% 5% 0 5%;
+    display: inline-flex;
+    font-size: 120%;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    border: .5px solid black;
+    transition: .3s;
+}
+
+#plan:hover{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+#learn{
+    background-color: #5ED3EB;
+    font-family: 'Roboto Mono', monospace;
+    width: 17%;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 30%;
+    margin: 2% 5% 0 5%;
+    display: inline-flex;
+    font-size: 120%;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    border: .5px solid black;
+    transition: .3s;
+}
+
+#learn:hover{
+    color: violet;
+    background-color: yellowgreen;
+}
+
+#involved{
+    background-color: #FFCD69;
+    font-family: 'Roboto Mono', monospace;
+    width: 15%;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 30%;
+    margin: 2% 5% 0 5%;
+    display: inline-flex;
+    font-size: 120%;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    border: .5px solid black;
+    transition: .3s;
+}
+
+#involved:hover{
+    color: teal;
+    background-color: tomato;
+}
+
+h1{
+    font-family: 'Chelsea Market', cursive;
+    text-align: right;
+    font-size: 400%;
+    margin-left: 8%;
+    display: inline-block;
+    margin-right: 3%;
+    bottom: 5em;
+    position: absolute;
+}
+
+.middle{
+    background-color: #DDB9A3;
+}
+
+.mountain{
+    border-radius: 50%;
+    width: 20%;
+    height: 20%;
+    padding: 5%;
+    margin-left: 2%;
+}
+
+.come-explore{
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+    padding-left: 38%;
+    bottom:6em;
+    display: block;
+    font-size: 150%;
+    margin: 2% 2% 2% 2%;
+    position: absolute;
+    width: 40%;
+}
+
+.middle{
+    text-align: center;
+    width: fit-content;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2% 4% 2% 4%;
+    font-size: 100%;
+    color: white;
+    font-family: 'Chelsea Market', cursive;
+}
+
+.cute img{
+    width: 8%;
+    height: 8%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1%;
+}
+
+.fire{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    font-family: 'Chelsea Market', cursive;
+    padding-bottom: ;
+}
+
+.we{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    font-family: 'Chelsea Market', cursive;
+    padding-bottom: ;
+}
+
+.footer-img{
+    width: 100%;
+    height: 25em;
+}
+
+footer{
+    background-color: #F9E7DC;
+    height: 20%;
+}
+
+#visit{
+    background-color: #FF764E;
+    font-family: 'Roboto Mono', monospace;
+    width: 15%;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 30%;
+    margin: 3% 2% 4% 2%;
+    display: inline-flex;
+    font-size: 120%;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    border: .5px solid black;
+    margin-left: 10%;
+    transition: .3s;
+}
+
+#visit:hover{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+#park{
+    background-color: #5ED3EB;
+    font-family: 'Roboto Mono', monospace;
+    width: 15%;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 30%;
+    margin: 3% 10% 4% 10%;
+    display: inline-flex;
+    font-size: 120%;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    border: .5px solid black;
+    margin-left: 15%;
+    transition: .3s;
+}
+
+#park:hover{
+    color: violet;
+    background-color: yellowgreen;
+}
+
+#get{
+    background-color: #FFCD69;
+    font-family: 'Roboto Mono', monospace;
+    width: 15%;
+    height: 3.5rem;
+    text-align: center;
+    border-radius: 30%;
+    margin: 3% 5% 4% 5%;
+    display: inline-flex;
+    font-size: 120%;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    color: white;
+    border: .5px solid black;
+    margin-left: 10%;
+    transition: .3s;
+}
+
+#get:hover{
+    color: teal;
+    background-color: tomato;
+}
